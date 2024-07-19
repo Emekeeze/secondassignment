@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f8f8f8;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    
+}
+
+.header-content {
+    max-width: 800px;
+    margin: 0 ;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+    letter-spacing: 2px;
+}
+
+header p {
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.read-more {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #555;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.read-more:hover {
+    background-color: #777;
+}
+
+main {
+    text-align: center;
+    
+}
+
+.about-me {
+   
+    padding: 50px 0px;
+    
+    display: inline-block;
+}
+
+.about-me h2 {
+    margin-top: 0;
+    font-size: 24px;
+    border: 2px solid black;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+.about-me p {
+    margin: 20px 0;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.explore {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    color: #333;
+    background-color: #ddd;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.explore:hover {
+    background-color: #bbb;
+}
